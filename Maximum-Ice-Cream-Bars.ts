@@ -14,3 +14,4 @@ function maxIceCream(costs: number[], coins: number): number {
 
 // Test Cases
 const maxCreamBars: number = maxIceCream([4, 5, 8, 9], 6)
+console.log(maxCreamBars);
