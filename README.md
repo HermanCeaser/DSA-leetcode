@@ -27,4 +27,4 @@ Contains some problems from Leetcode
 
 
 ## Author
-[Herman Ceaser Kyaka](www.github.com/HermanCeaser) 
+[Herman Ceaser Kyaka](https://www.github.com/HermanCeaser) 
